@@ -1835,3 +1835,28 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.03.04-23.23.41:684][ 63]LogSavePackage: Moving 'E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Saved/StartMenuA03425FB42CF2B64851EA6A8DB326BCF.tmp' to 'E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Content/Maps/StartMenu.umap'
 [2022.03.04-23.23.41:699][ 63]AssetCheck: New page: Asset Save: StartMenu
 [2022.03.04-23.23.41:699][ 63]LogContentValidation: Display: Validating World /Game/Maps/StartMenu.StartMenu
+[2022.03.04-23.24.55:423][514]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StartMenu" FILE="E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Content/Maps/StartMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.04-23.24.55:446][514]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.03.04-23.24.55:451][514]LogSavePackage: Moving 'E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Saved/StartMenu11BF48734ED8DA93F4851EBCCDF7492B.tmp' to 'E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Content/Maps/StartMenu.umap'
+[2022.03.04-23.24.55:466][514]AssetCheck: New page: Asset Save: StartMenu
+[2022.03.04-23.24.55:466][514]LogContentValidation: Display: Validating World /Game/Maps/StartMenu.StartMenu
+[2022.03.04-23.24.57:306][724]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StartMenu" FILE="E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Content/Maps/StartMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.04-23.24.57:327][724]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.03.04-23.24.57:332][724]LogSavePackage: Moving 'E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Saved/StartMenu688CCDF041939C555F4305BC26466DF1.tmp' to 'E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Content/Maps/StartMenu.umap'
+[2022.03.04-23.24.57:394][724]AssetCheck: New page: Asset Save: StartMenu
+[2022.03.04-23.24.57:394][724]LogContentValidation: Display: Validating World /Game/Maps/StartMenu.StartMenu
+[2022.03.04-23.24.58:956][904]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StartMenu" FILE="E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Content/Maps/StartMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.04-23.24.58:977][904]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.03.04-23.24.58:983][904]LogSavePackage: Moving 'E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Saved/StartMenu2910FB3A42ED36F4DD8A50AB954B7117.tmp' to 'E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Content/Maps/StartMenu.umap'
+[2022.03.04-23.24.58:998][904]AssetCheck: New page: Asset Save: StartMenu
+[2022.03.04-23.24.58:998][904]LogContentValidation: Display: Validating World /Game/Maps/StartMenu.StartMenu
+[2022.03.04-23.25.01:808][140]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.03.04-23.25.17:200][354]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.03.04-23.25.17:222][354]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.03.04-23.25.21:562][741]LogSlate: Window 'Project Settings' being destroyed
+[2022.03.04-23.25.21:570][741]LogSlate: Window 'Project Settings' being destroyed
+[2022.03.04-23.25.22:190][807]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StartMenu" FILE="E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Content/Maps/StartMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.04-23.25.22:275][807]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2022.03.04-23.25.22:280][807]LogSavePackage: Moving 'E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Saved/StartMenu9AB740AD41DEB0D6E52EE282554E8259.tmp' to 'E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Content/Maps/StartMenu.umap'
+[2022.03.04-23.25.22:313][807]AssetCheck: New page: Asset Save: StartMenu
+[2022.03.04-23.25.22:313][807]LogContentValidation: Display: Validating World /Game/Maps/StartMenu.StartMenu
