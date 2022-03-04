@@ -1080,3 +1080,325 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.03.04-23.34.33:243][668]AssetCheck: New page: Asset Save: multiple assets
 [2022.03.04-23.34.33:243][668]LogContentValidation: Display: Validating World /Game/Maps/LevelOne.LevelOne
 [2022.03.04-23.34.33:243][668]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/LevelOne_BuiltData.LevelOne_BuiltData
+[2022.03.04-23.35.12:906][599]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelOne" FILE="E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Content/Maps/LevelOne.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.04-23.35.12:922][599]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2022.03.04-23.35.12:930][599]LogSavePackage: Moving 'E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Saved/LevelOne8BFC131942F7FBCB2538F28DD16D252D.tmp' to 'E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Content/Maps/LevelOne.umap'
+[2022.03.04-23.35.12:935][599]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelOne_BuiltData" FILE="E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Content/Maps/LevelOne_BuiltData.uasset" SILENT=true
+[2022.03.04-23.35.12:945][599]LogSavePackage: Moving 'E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Saved/LevelOne_BuiltDataD4E987D24F4A017E7EDF088F0B7C21D7.tmp' to 'E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Content/Maps/LevelOne_BuiltData.uasset'
+[2022.03.04-23.35.12:961][599]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.04-23.35.12:961][599]LogContentValidation: Display: Validating World /Game/Maps/LevelOne.LevelOne
+[2022.03.04-23.35.12:961][599]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/LevelOne_BuiltData.LevelOne_BuiltData
+[2022.03.04-23.35.13:410][651]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.04-23.35.13:414][651]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.04-23.35.13:414][651]PIE: New page: PIE session: LevelOne (5 Mar 2022, 01:35:13)
+[2022.03.04-23.35.13:417][651]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.03.04-23.35.13:418][651]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.03.04-23.35.13:418][651]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LevelOne
+[2022.03.04-23.35.13:420][651]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002375s)
+[2022.03.04-23.35.13:421][651]LogAIModule: Creating AISystem for world LevelOne
+[2022.03.04-23.35.13:422][651]LogPlayLevel: PIE: World Init took: (0.001227s)
+[2022.03.04-23.35.13:422][651]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LevelOne.LevelOne to /Game/Maps/UEDPIE_0_LevelOne.LevelOne (0.003728s)
+[2022.03.04-23.35.13:436][651]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2022.03.04-23.35.13:436][651]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.03.04-23.35.13:436][651]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.04-23.35.13:436][651]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.04-23.35.13:436][651]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.04-23.35.13:436][651]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.04-23.35.13:436][651]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.04-23.35.13:436][651]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.04-23.35.13:436][651]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.04-23.35.13:436][651]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.04-23.35.13:436][651]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.04-23.35.13:436][651]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.04-23.35.13:436][651]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.04-23.35.13:436][651]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.04-23.35.13:440][651]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.04-23.35.13:440][651]LogAudioMixer: Display: 1: FrontRight
+[2022.03.04-23.35.13:444][651]LogAudioMixer: Display: Using Audio Device Speakers (Focusrite Usb Audio)
+[2022.03.04-23.35.13:444][651]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.04-23.35.13:444][651]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.04-23.35.13:444][651]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.04-23.35.13:444][651]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.04-23.35.13:445][651]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.04-23.35.13:445][651]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.04-23.35.13:446][651]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.04-23.35.13:446][651]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.04-23.35.13:446][651]LogInit: FAudioDevice initialized.
+[2022.03.04-23.35.13:446][651]LogAudio: Display: Audio Device (ID: 2) registered with world 'LevelOne'.
+[2022.03.04-23.35.13:452][651]LogLoad: Game class is 'BP_MainGameMode_C'
+[2022.03.04-23.35.13:453][651]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2022.03.05-00.35.13
+[2022.03.04-23.35.13:453][651]LogWorld: Bringing up level for play took: 0.000510
+[2022.03.04-23.35.13:453][651]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2022.03.04-23.35.13:461][651]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2022.03.04-23.35.13:468][651]PIE: Server logged in
+[2022.03.04-23.35.13:470][651]PIE: Play in editor total start time 0.057 seconds.
+[2022.03.04-23.35.15:245][813]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.04-23.35.15:245][813]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_LevelOne
+[2022.03.04-23.35.15:246][813]LogWorld: UWorld::CleanupWorld for LevelOne, bSessionEnded=true, bCleanupResources=true
+[2022.03.04-23.35.15:248][813]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.04-23.35.15:259][813]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.04-23.35.15:263][813]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.04-23.35.15:276][813]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.04-23.35.15:276][813]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.04-23.35.15:277][813]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.04-23.35.15:332][813]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2022.03.04-23.35.15:351][814]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2022.03.04-23.35.15:937][880]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelOne" FILE="E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Content/Maps/LevelOne.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.04-23.35.15:977][880]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2022.03.04-23.35.15:985][880]LogSavePackage: Moving 'E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Saved/LevelOneAEEA3F4B4685F63D88685A981790AC74.tmp' to 'E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Content/Maps/LevelOne.umap'
+[2022.03.04-23.35.15:993][880]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelOne_BuiltData" FILE="E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Content/Maps/LevelOne_BuiltData.uasset" SILENT=true
+[2022.03.04-23.35.16:003][880]LogSavePackage: Moving 'E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Saved/LevelOne_BuiltData70723C754E97966D4DF4C7B4CCDA3DA1.tmp' to 'E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Content/Maps/LevelOne_BuiltData.uasset'
+[2022.03.04-23.35.16:023][880]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.04-23.35.16:023][880]LogContentValidation: Display: Validating World /Game/Maps/LevelOne.LevelOne
+[2022.03.04-23.35.16:023][880]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/LevelOne_BuiltData.LevelOne_BuiltData
+[2022.03.04-23.35.17:039][997]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelOne" FILE="E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Content/Maps/LevelOne.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.04-23.35.17:049][997]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.03.04-23.35.17:058][997]LogSavePackage: Moving 'E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Saved/LevelOneDF11402243DF7E210BF28D925CE6A8E5.tmp' to 'E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Content/Maps/LevelOne.umap'
+[2022.03.04-23.35.17:067][997]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelOne_BuiltData" FILE="E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Content/Maps/LevelOne_BuiltData.uasset" SILENT=true
+[2022.03.04-23.35.17:076][997]LogSavePackage: Moving 'E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Saved/LevelOne_BuiltData325D9BF048B65230A20A8A8FD412E2D3.tmp' to 'E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Content/Maps/LevelOne_BuiltData.uasset'
+[2022.03.04-23.35.17:092][997]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.04-23.35.17:092][997]LogContentValidation: Display: Validating World /Game/Maps/LevelOne.LevelOne
+[2022.03.04-23.35.17:092][997]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/LevelOne_BuiltData.LevelOne_BuiltData
+[2022.03.04-23.35.17:751][ 70]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.04-23.35.17:756][ 70]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.04-23.35.17:756][ 70]PIE: New page: PIE session: LevelOne (5 Mar 2022, 01:35:17)
+[2022.03.04-23.35.17:784][ 70]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LevelOne
+[2022.03.04-23.35.17:787][ 70]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002792s)
+[2022.03.04-23.35.17:788][ 70]LogAIModule: Creating AISystem for world LevelOne
+[2022.03.04-23.35.17:788][ 70]LogPlayLevel: PIE: World Init took: (0.001115s)
+[2022.03.04-23.35.17:788][ 70]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LevelOne.LevelOne to /Game/Maps/UEDPIE_0_LevelOne.LevelOne (0.004072s)
+[2022.03.04-23.35.17:800][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2022.03.04-23.35.17:801][ 70]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.03.04-23.35.17:801][ 70]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.04-23.35.17:801][ 70]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.04-23.35.17:801][ 70]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.04-23.35.17:801][ 70]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.04-23.35.17:801][ 70]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.04-23.35.17:801][ 70]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.04-23.35.17:801][ 70]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.04-23.35.17:801][ 70]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.04-23.35.17:801][ 70]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.04-23.35.17:801][ 70]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.04-23.35.17:801][ 70]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.04-23.35.17:801][ 70]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.04-23.35.17:804][ 70]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.04-23.35.17:805][ 70]LogAudioMixer: Display: 1: FrontRight
+[2022.03.04-23.35.17:808][ 70]LogAudioMixer: Display: Using Audio Device Speakers (Focusrite Usb Audio)
+[2022.03.04-23.35.17:808][ 70]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.04-23.35.17:808][ 70]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.04-23.35.17:808][ 70]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.04-23.35.17:809][ 70]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.04-23.35.17:809][ 70]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.04-23.35.17:809][ 70]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.04-23.35.17:810][ 70]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.04-23.35.17:810][ 70]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.04-23.35.17:810][ 70]LogInit: FAudioDevice initialized.
+[2022.03.04-23.35.17:810][ 70]LogAudio: Display: Audio Device (ID: 3) registered with world 'LevelOne'.
+[2022.03.04-23.35.17:815][ 70]LogLoad: Game class is 'BP_MainGameMode_C'
+[2022.03.04-23.35.17:816][ 70]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2022.03.05-00.35.17
+[2022.03.04-23.35.17:817][ 70]LogWorld: Bringing up level for play took: 0.000790
+[2022.03.04-23.35.17:817][ 70]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2022.03.04-23.35.17:819][ 70]PIE: Server logged in
+[2022.03.04-23.35.17:820][ 70]PIE: Play in editor total start time 0.065 seconds.
+[2022.03.04-23.35.26:836][947]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.04-23.35.26:836][947]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_LevelOne
+[2022.03.04-23.35.26:836][947]LogWorld: UWorld::CleanupWorld for LevelOne, bSessionEnded=true, bCleanupResources=true
+[2022.03.04-23.35.26:836][947]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.04-23.35.26:842][947]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.04-23.35.26:845][947]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.04-23.35.26:857][947]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.04-23.35.26:858][947]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.04-23.35.26:859][947]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.04-23.35.26:863][947]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2022.03.04-23.35.26:915][949]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2022.03.04-23.35.28:122][ 92]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelOne" FILE="E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Content/Maps/LevelOne.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.04-23.35.28:136][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2022.03.04-23.35.28:143][ 92]LogSavePackage: Moving 'E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Saved/LevelOne494E75904AD53B72C1E2699E534A6E44.tmp' to 'E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Content/Maps/LevelOne.umap'
+[2022.03.04-23.35.28:151][ 92]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelOne_BuiltData" FILE="E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Content/Maps/LevelOne_BuiltData.uasset" SILENT=true
+[2022.03.04-23.35.28:161][ 92]LogSavePackage: Moving 'E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Saved/LevelOne_BuiltData99D7015747F51DFCC044CEACCC831E88.tmp' to 'E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Content/Maps/LevelOne_BuiltData.uasset'
+[2022.03.04-23.35.28:173][ 92]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.04-23.35.28:173][ 92]LogContentValidation: Display: Validating World /Game/Maps/LevelOne.LevelOne
+[2022.03.04-23.35.28:173][ 92]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/LevelOne_BuiltData.LevelOne_BuiltData
+[2022.03.04-23.35.32:739][571]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelOne" FILE="E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Content/Maps/LevelOne.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.04-23.35.32:752][571]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.03.04-23.35.32:761][571]LogSavePackage: Moving 'E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Saved/LevelOne21464AEF4C8D3575F77C479570D5EAA3.tmp' to 'E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Content/Maps/LevelOne.umap'
+[2022.03.04-23.35.32:766][571]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelOne_BuiltData" FILE="E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Content/Maps/LevelOne_BuiltData.uasset" SILENT=true
+[2022.03.04-23.35.32:776][571]LogSavePackage: Moving 'E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Saved/LevelOne_BuiltData7FC7E87A480440DDC06F8BAB19E567D4.tmp' to 'E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Content/Maps/LevelOne_BuiltData.uasset'
+[2022.03.04-23.35.32:789][571]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.04-23.35.32:789][571]LogContentValidation: Display: Validating World /Game/Maps/LevelOne.LevelOne
+[2022.03.04-23.35.32:789][571]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/LevelOne_BuiltData.LevelOne_BuiltData
+[2022.03.04-23.35.33:690][676]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelOne" FILE="E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Content/Maps/LevelOne.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.04-23.35.33:702][676]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.03.04-23.35.33:709][676]LogSavePackage: Moving 'E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Saved/LevelOne981391E54D39835D0BDD5FA40BFC611B.tmp' to 'E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Content/Maps/LevelOne.umap'
+[2022.03.04-23.35.33:718][676]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelOne_BuiltData" FILE="E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Content/Maps/LevelOne_BuiltData.uasset" SILENT=true
+[2022.03.04-23.35.33:728][676]LogSavePackage: Moving 'E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Saved/LevelOne_BuiltData925813994ED1588ED1856E89D4D78E80.tmp' to 'E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Content/Maps/LevelOne_BuiltData.uasset'
+[2022.03.04-23.35.33:739][676]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.04-23.35.33:739][676]LogContentValidation: Display: Validating World /Game/Maps/LevelOne.LevelOne
+[2022.03.04-23.35.33:739][676]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/LevelOne_BuiltData.LevelOne_BuiltData
+[2022.03.04-23.35.40:323][342]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelOne" FILE="E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Content/Maps/LevelOne.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.04-23.35.40:335][342]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.03.04-23.35.40:343][342]LogSavePackage: Moving 'E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Saved/LevelOneC32F287C4DB0F9515950418305481705.tmp' to 'E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Content/Maps/LevelOne.umap'
+[2022.03.04-23.35.40:354][342]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelOne_BuiltData" FILE="E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Content/Maps/LevelOne_BuiltData.uasset" SILENT=true
+[2022.03.04-23.35.40:364][342]LogSavePackage: Moving 'E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Saved/LevelOne_BuiltData678B9E7D46A12089C542E6AEDDCB05EB.tmp' to 'E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Content/Maps/LevelOne_BuiltData.uasset'
+[2022.03.04-23.35.40:375][342]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.04-23.35.40:375][342]LogContentValidation: Display: Validating World /Game/Maps/LevelOne.LevelOne
+[2022.03.04-23.35.40:375][342]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/LevelOne_BuiltData.LevelOne_BuiltData
+[2022.03.04-23.35.55:069][721]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.03.04-23.35.58:790][934]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.03.04-23.35.58:795][934]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.03.04-23.35.58:806][934]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.03.04-23.36.05:019][642]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_OverviewCamera
+[2022.03.04-23.36.05:023][642]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.03.04-23.36.05:472][694]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_OverviewCamera" FILE="E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Content/Blueprints/BP_OverviewCamera.uasset" SILENT=true
+[2022.03.04-23.36.05:474][694]LogSavePackage: Moving 'E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Saved/BP_OverviewCamera9E0F416B43F2922F9D81BC8C276C9AFE.tmp' to 'E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Content/Blueprints/BP_OverviewCamera.uasset'
+[2022.03.04-23.36.05:496][694]AssetCheck: New page: Asset Save: BP_OverviewCamera
+[2022.03.04-23.36.05:496][694]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_OverviewCamera.BP_OverviewCamera
+[2022.03.04-23.36.06:523][812]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_OverviewCamera.BP_OverviewCamera
+[2022.03.04-23.36.06:968][812]LogRenderer: Reallocating scene render targets to support 1208x908 Format 10 NumSamples 1 (Frame:1).
+[2022.03.04-23.36.10:742][195]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_OverviewCamera" FILE="E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Content/Blueprints/BP_OverviewCamera.uasset" SILENT=true
+[2022.03.04-23.36.10:745][195]LogSavePackage: Moving 'E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Saved/BP_OverviewCamera7BCDB28A48697A7F6288FD8E7F48A11D.tmp' to 'E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Content/Blueprints/BP_OverviewCamera.uasset'
+[2022.03.04-23.36.10:758][195]AssetCheck: New page: Asset Save: BP_OverviewCamera
+[2022.03.04-23.36.10:758][195]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_OverviewCamera.BP_OverviewCamera
+[2022.03.04-23.36.11:224][237]BlueprintLog: New page: Compile BP_OverviewCamera
+[2022.03.04-23.36.11:252][237]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2022.03.04-23.36.11:605][262]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_OverviewCamera" FILE="E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Content/Blueprints/BP_OverviewCamera.uasset" SILENT=true
+[2022.03.04-23.36.11:608][262]LogSavePackage: Moving 'E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Saved/BP_OverviewCamera1944829D41FD8E24305217B991988961.tmp' to 'E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Content/Blueprints/BP_OverviewCamera.uasset'
+[2022.03.04-23.36.11:621][262]AssetCheck: New page: Asset Save: BP_OverviewCamera
+[2022.03.04-23.36.11:621][262]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_OverviewCamera.BP_OverviewCamera
+[2022.03.04-23.36.22:267][370]BlueprintLog: New page: Compile BP_OverviewCamera
+[2022.03.04-23.36.22:295][370]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2022.03.04-23.36.22:823][414]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_OverviewCamera" FILE="E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Content/Blueprints/BP_OverviewCamera.uasset" SILENT=true
+[2022.03.04-23.36.22:826][414]LogSavePackage: Moving 'E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Saved/BP_OverviewCameraEF7AAF26460B2392ACC1D69815E93448.tmp' to 'E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Content/Blueprints/BP_OverviewCamera.uasset'
+[2022.03.04-23.36.22:837][414]AssetCheck: New page: Asset Save: BP_OverviewCamera
+[2022.03.04-23.36.22:837][414]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_OverviewCamera.BP_OverviewCamera
+[2022.03.04-23.36.24:572][580]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_OverviewCamera" FILE="E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Content/Blueprints/BP_OverviewCamera.uasset" SILENT=true
+[2022.03.04-23.36.24:574][580]LogSavePackage: Moving 'E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Saved/BP_OverviewCameraEDDDAD6C47E698E81065A385AACB4B6F.tmp' to 'E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Content/Blueprints/BP_OverviewCamera.uasset'
+[2022.03.04-23.36.24:588][580]AssetCheck: New page: Asset Save: BP_OverviewCamera
+[2022.03.04-23.36.24:588][580]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_OverviewCamera.BP_OverviewCamera
+[2022.03.04-23.36.25:505][668]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_OverviewCamera" FILE="E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Content/Blueprints/BP_OverviewCamera.uasset" SILENT=true
+[2022.03.04-23.36.25:508][668]LogSavePackage: Moving 'E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Saved/BP_OverviewCamera60F3741B4936D2D615E7ED9F1A63D4ED.tmp' to 'E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Content/Blueprints/BP_OverviewCamera.uasset'
+[2022.03.04-23.36.25:520][668]AssetCheck: New page: Asset Save: BP_OverviewCamera
+[2022.03.04-23.36.25:520][668]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_OverviewCamera.BP_OverviewCamera
+[2022.03.04-23.36.27:671][881]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_OverviewCamera" FILE="E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Content/Blueprints/BP_OverviewCamera.uasset" SILENT=true
+[2022.03.04-23.36.27:674][881]LogSavePackage: Moving 'E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Saved/BP_OverviewCameraA27438BE4FD44EE054885C924E5C3D69.tmp' to 'E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Content/Blueprints/BP_OverviewCamera.uasset'
+[2022.03.04-23.36.27:688][881]AssetCheck: New page: Asset Save: BP_OverviewCamera
+[2022.03.04-23.36.27:688][881]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_OverviewCamera.BP_OverviewCamera
+[2022.03.04-23.36.29:056][999]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_OverviewCamera" FILE="E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Content/Blueprints/BP_OverviewCamera.uasset" SILENT=true
+[2022.03.04-23.36.29:059][999]LogSavePackage: Moving 'E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Saved/BP_OverviewCamera1A63F8A04978B7A2F60C789D188AE335.tmp' to 'E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Content/Blueprints/BP_OverviewCamera.uasset'
+[2022.03.04-23.36.29:070][999]AssetCheck: New page: Asset Save: BP_OverviewCamera
+[2022.03.04-23.36.29:070][999]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_OverviewCamera.BP_OverviewCamera
+[2022.03.04-23.36.36:592][697]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_OverviewCamera" FILE="E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Content/Blueprints/BP_OverviewCamera.uasset" SILENT=true
+[2022.03.04-23.36.36:596][697]LogSavePackage: Moving 'E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Saved/BP_OverviewCameraFDE02B294A5663107FC0C7B25DCF01FC.tmp' to 'E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Content/Blueprints/BP_OverviewCamera.uasset'
+[2022.03.04-23.36.36:608][697]AssetCheck: New page: Asset Save: BP_OverviewCamera
+[2022.03.04-23.36.36:608][697]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_OverviewCamera.BP_OverviewCamera
+[2022.03.04-23.36.37:556][775]BlueprintLog: New page: Compile BP_OverviewCamera
+[2022.03.04-23.36.37:583][775]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2022.03.04-23.36.37:938][802]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_OverviewCamera" FILE="E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Content/Blueprints/BP_OverviewCamera.uasset" SILENT=true
+[2022.03.04-23.36.37:942][802]LogSavePackage: Moving 'E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Saved/BP_OverviewCamera40A57B4847C02C0B6AFE7CAEEFA0F39E.tmp' to 'E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Content/Blueprints/BP_OverviewCamera.uasset'
+[2022.03.04-23.36.37:971][802]AssetCheck: New page: Asset Save: BP_OverviewCamera
+[2022.03.04-23.36.37:971][802]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_OverviewCamera.BP_OverviewCamera
+[2022.03.04-23.36.47:006][706]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelOne" FILE="E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Content/Maps/LevelOne.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.04-23.36.47:026][706]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2022.03.04-23.36.47:034][706]LogSavePackage: Moving 'E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Saved/LevelOne9F8886F34A9CBEBDA3E07FAFFFB191E9.tmp' to 'E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Content/Maps/LevelOne.umap'
+[2022.03.04-23.36.47:038][706]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelOne_BuiltData" FILE="E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Content/Maps/LevelOne_BuiltData.uasset" SILENT=true
+[2022.03.04-23.36.47:048][706]LogSavePackage: Moving 'E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Saved/LevelOne_BuiltData2227C3454D9AB3D6F1A7389DC7DC5EF0.tmp' to 'E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Content/Maps/LevelOne_BuiltData.uasset'
+[2022.03.04-23.36.47:061][706]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.04-23.36.47:061][706]LogContentValidation: Display: Validating World /Game/Maps/LevelOne.LevelOne
+[2022.03.04-23.36.47:061][706]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/LevelOne_BuiltData.LevelOne_BuiltData
+[2022.03.04-23.36.50:774][119]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelOne" FILE="E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Content/Maps/LevelOne.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.04-23.36.50:793][119]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2022.03.04-23.36.50:801][119]LogSavePackage: Moving 'E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Saved/LevelOneC9BEC648427DA76C80B467A4B513E7B5.tmp' to 'E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Content/Maps/LevelOne.umap'
+[2022.03.04-23.36.50:805][119]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelOne_BuiltData" FILE="E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Content/Maps/LevelOne_BuiltData.uasset" SILENT=true
+[2022.03.04-23.36.50:814][119]LogSavePackage: Moving 'E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Saved/LevelOne_BuiltDataE9068B6A41761954668502847807907B.tmp' to 'E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Content/Maps/LevelOne_BuiltData.uasset'
+[2022.03.04-23.36.50:827][119]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.04-23.36.50:827][119]LogContentValidation: Display: Validating World /Game/Maps/LevelOne.LevelOne
+[2022.03.04-23.36.50:827][119]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/LevelOne_BuiltData.LevelOne_BuiltData
+[2022.03.04-23.36.55:839][679]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelOne" FILE="E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Content/Maps/LevelOne.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.04-23.36.55:859][679]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2022.03.04-23.36.55:868][679]LogSavePackage: Moving 'E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Saved/LevelOneD18F9F1A44D688053A7F66B0A05561B5.tmp' to 'E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Content/Maps/LevelOne.umap'
+[2022.03.04-23.36.55:876][679]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelOne_BuiltData" FILE="E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Content/Maps/LevelOne_BuiltData.uasset" SILENT=true
+[2022.03.04-23.36.55:886][679]LogSavePackage: Moving 'E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Saved/LevelOne_BuiltData1306E2704CB4E9D65A4789BE0C457055.tmp' to 'E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Content/Maps/LevelOne_BuiltData.uasset'
+[2022.03.04-23.36.55:898][679]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.04-23.36.55:898][679]LogContentValidation: Display: Validating World /Game/Maps/LevelOne.LevelOne
+[2022.03.04-23.36.55:898][679]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/LevelOne_BuiltData.LevelOne_BuiltData
+[2022.03.04-23.37.08:640][ 44]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelOne" FILE="E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Content/Maps/LevelOne.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.04-23.37.08:658][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2022.03.04-23.37.08:668][ 44]LogSavePackage: Moving 'E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Saved/LevelOneE04377B5478582A689AE8BA899FED29E.tmp' to 'E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Content/Maps/LevelOne.umap'
+[2022.03.04-23.37.08:678][ 44]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelOne_BuiltData" FILE="E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Content/Maps/LevelOne_BuiltData.uasset" SILENT=true
+[2022.03.04-23.37.08:688][ 44]LogSavePackage: Moving 'E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Saved/LevelOne_BuiltDataA8FDE20349D8DD5C2663AAAABBD99D34.tmp' to 'E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Content/Maps/LevelOne_BuiltData.uasset'
+[2022.03.04-23.37.08:700][ 44]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.04-23.37.08:700][ 44]LogContentValidation: Display: Validating World /Game/Maps/LevelOne.LevelOne
+[2022.03.04-23.37.08:700][ 44]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/LevelOne_BuiltData.LevelOne_BuiltData
+[2022.03.04-23.37.10:740][286]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_OverviewCamera" FILE="E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Content/Blueprints/BP_OverviewCamera.uasset" SILENT=true
+[2022.03.04-23.37.10:743][286]LogSavePackage: Moving 'E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Saved/BP_OverviewCamera9F0577874FFC3C3EB757748C8F8A751E.tmp' to 'E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Content/Blueprints/BP_OverviewCamera.uasset'
+[2022.03.04-23.37.10:754][286]AssetCheck: New page: Asset Save: BP_OverviewCamera
+[2022.03.04-23.37.10:754][286]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_OverviewCamera.BP_OverviewCamera
+[2022.03.04-23.37.31:191][612]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelOne" FILE="E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Content/Maps/LevelOne.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.04-23.37.31:208][612]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2022.03.04-23.37.31:217][612]LogSavePackage: Moving 'E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Saved/LevelOne7E0B6C804B43B375EBA368BF5C1FD286.tmp' to 'E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Content/Maps/LevelOne.umap'
+[2022.03.04-23.37.31:223][612]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelOne_BuiltData" FILE="E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Content/Maps/LevelOne_BuiltData.uasset" SILENT=true
+[2022.03.04-23.37.31:232][612]LogSavePackage: Moving 'E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Saved/LevelOne_BuiltData6924230B4D3F2F40FA30CE9505AB1F29.tmp' to 'E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Content/Maps/LevelOne_BuiltData.uasset'
+[2022.03.04-23.37.31:242][612]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.04-23.37.31:242][612]LogContentValidation: Display: Validating World /Game/Maps/LevelOne.LevelOne
+[2022.03.04-23.37.31:242][612]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/LevelOne_BuiltData.LevelOne_BuiltData
+[2022.03.04-23.37.32:041][705]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelOne" FILE="E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Content/Maps/LevelOne.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.04-23.37.32:057][705]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.03.04-23.37.32:065][705]LogSavePackage: Moving 'E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Saved/LevelOne0D7BDEA34E18D61AA935FABB9588EACC.tmp' to 'E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Content/Maps/LevelOne.umap'
+[2022.03.04-23.37.32:074][705]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelOne_BuiltData" FILE="E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Content/Maps/LevelOne_BuiltData.uasset" SILENT=true
+[2022.03.04-23.37.32:083][705]LogSavePackage: Moving 'E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Saved/LevelOne_BuiltData550BFA064FD891D2A1E0EAB5A572170B.tmp' to 'E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Content/Maps/LevelOne_BuiltData.uasset'
+[2022.03.04-23.37.32:095][705]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.04-23.37.32:095][705]LogContentValidation: Display: Validating World /Game/Maps/LevelOne.LevelOne
+[2022.03.04-23.37.32:095][705]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/LevelOne_BuiltData.LevelOne_BuiltData
+[2022.03.04-23.37.33:791][906]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelOne" FILE="E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Content/Maps/LevelOne.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.04-23.37.33:806][906]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.03.04-23.37.33:814][906]LogSavePackage: Moving 'E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Saved/LevelOneEDAC943747CF87660C6B83B6D510370A.tmp' to 'E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Content/Maps/LevelOne.umap'
+[2022.03.04-23.37.33:818][906]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelOne_BuiltData" FILE="E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Content/Maps/LevelOne_BuiltData.uasset" SILENT=true
+[2022.03.04-23.37.33:828][906]LogSavePackage: Moving 'E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Saved/LevelOne_BuiltDataAA5DC20C4DD2C63AA392E6A94F95D2DC.tmp' to 'E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Content/Maps/LevelOne_BuiltData.uasset'
+[2022.03.04-23.37.33:839][906]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.04-23.37.33:839][906]LogContentValidation: Display: Validating World /Game/Maps/LevelOne.LevelOne
+[2022.03.04-23.37.33:839][906]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/LevelOne_BuiltData.LevelOne_BuiltData
+[2022.03.04-23.37.34:509][986]LogEditorViewport: Clicking on Actor (LMB): BP_OverviewCamera_C (MainCamera)
+[2022.03.04-23.37.48:258][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_OverviewCamera" FILE="E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Content/Blueprints/BP_OverviewCamera.uasset" SILENT=true
+[2022.03.04-23.37.48:262][372]LogSavePackage: Moving 'E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Saved/BP_OverviewCameraD971E135425CAE976C9B02A70D166EDD.tmp' to 'E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Content/Blueprints/BP_OverviewCamera.uasset'
+[2022.03.04-23.37.48:275][372]AssetCheck: New page: Asset Save: BP_OverviewCamera
+[2022.03.04-23.37.48:275][372]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_OverviewCamera.BP_OverviewCamera
+[2022.03.04-23.37.53:541][946]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelOne" FILE="E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Content/Maps/LevelOne.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.04-23.37.53:560][946]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2022.03.04-23.37.53:570][946]LogSavePackage: Moving 'E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Saved/LevelOneFA523926460894ACC989C98712DA8702.tmp' to 'E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Content/Maps/LevelOne.umap'
+[2022.03.04-23.37.53:579][946]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelOne_BuiltData" FILE="E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Content/Maps/LevelOne_BuiltData.uasset" SILENT=true
+[2022.03.04-23.37.53:588][946]LogSavePackage: Moving 'E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Saved/LevelOne_BuiltDataCF107A7A4C7391BAA1D300A1A5DA5784.tmp' to 'E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Content/Maps/LevelOne_BuiltData.uasset'
+[2022.03.04-23.37.53:599][946]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.04-23.37.53:599][946]LogContentValidation: Display: Validating World /Game/Maps/LevelOne.LevelOne
+[2022.03.04-23.37.53:599][946]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/LevelOne_BuiltData.LevelOne_BuiltData
+[2022.03.04-23.37.54:808][ 88]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelOne" FILE="E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Content/Maps/LevelOne.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.04-23.37.54:824][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.03.04-23.37.54:832][ 88]LogSavePackage: Moving 'E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Saved/LevelOneA5EA20E04812A66050B5A596D75BBCD1.tmp' to 'E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Content/Maps/LevelOne.umap'
+[2022.03.04-23.37.54:837][ 88]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelOne_BuiltData" FILE="E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Content/Maps/LevelOne_BuiltData.uasset" SILENT=true
+[2022.03.04-23.37.54:846][ 88]LogSavePackage: Moving 'E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Saved/LevelOne_BuiltDataB773CF7A4D27F532856BA393B372D7B8.tmp' to 'E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Content/Maps/LevelOne_BuiltData.uasset'
+[2022.03.04-23.37.54:859][ 88]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.04-23.37.54:859][ 88]LogContentValidation: Display: Validating World /Game/Maps/LevelOne.LevelOne
+[2022.03.04-23.37.54:859][ 88]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/LevelOne_BuiltData.LevelOne_BuiltData
+[2022.03.04-23.37.56:225][247]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelOne" FILE="E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Content/Maps/LevelOne.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.04-23.37.56:240][247]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.03.04-23.37.56:248][247]LogSavePackage: Moving 'E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Saved/LevelOneA99B33884705F30360CCD3B65DA15D9D.tmp' to 'E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Content/Maps/LevelOne.umap'
+[2022.03.04-23.37.56:257][247]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelOne_BuiltData" FILE="E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Content/Maps/LevelOne_BuiltData.uasset" SILENT=true
+[2022.03.04-23.37.56:267][247]LogSavePackage: Moving 'E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Saved/LevelOne_BuiltDataD3B36184439ECB87E9F2D286ACD065D6.tmp' to 'E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Content/Maps/LevelOne_BuiltData.uasset'
+[2022.03.04-23.37.56:279][247]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.04-23.37.56:279][247]LogContentValidation: Display: Validating World /Game/Maps/LevelOne.LevelOne
+[2022.03.04-23.37.56:279][247]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/LevelOne_BuiltData.LevelOne_BuiltData
+[2022.03.04-23.37.57:557][398]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelOne" FILE="E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Content/Maps/LevelOne.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.04-23.37.57:574][398]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.03.04-23.37.57:581][398]LogSavePackage: Moving 'E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Saved/LevelOne022FC6C149C70C83B076E1AE3BB538F6.tmp' to 'E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Content/Maps/LevelOne.umap'
+[2022.03.04-23.37.57:590][398]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelOne_BuiltData" FILE="E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Content/Maps/LevelOne_BuiltData.uasset" SILENT=true
+[2022.03.04-23.37.57:600][398]LogSavePackage: Moving 'E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Saved/LevelOne_BuiltData8C83637E41A67ADE4905E5BFF3706161.tmp' to 'E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Content/Maps/LevelOne_BuiltData.uasset'
+[2022.03.04-23.37.57:609][398]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.04-23.37.57:609][398]LogContentValidation: Display: Validating World /Game/Maps/LevelOne.LevelOne
+[2022.03.04-23.37.57:610][398]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/LevelOne_BuiltData.LevelOne_BuiltData
+[2022.03.04-23.37.58:791][537]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelOne" FILE="E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Content/Maps/LevelOne.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.04-23.37.58:807][537]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.03.04-23.37.58:815][537]LogSavePackage: Moving 'E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Saved/LevelOne00F95C214C158CDDE7E0AF8C7EA74898.tmp' to 'E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Content/Maps/LevelOne.umap'
+[2022.03.04-23.37.58:819][537]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelOne_BuiltData" FILE="E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Content/Maps/LevelOne_BuiltData.uasset" SILENT=true
+[2022.03.04-23.37.58:829][537]LogSavePackage: Moving 'E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Saved/LevelOne_BuiltDataB65B93FE49CB773625965197A46302E7.tmp' to 'E:/Git/ClimaxGameJam_LockCookies/Project/LockCookiesGame/Content/Maps/LevelOne_BuiltData.uasset'
+[2022.03.04-23.37.58:840][537]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.04-23.37.58:840][537]LogContentValidation: Display: Validating World /Game/Maps/LevelOne.LevelOne
+[2022.03.04-23.37.58:840][537]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/LevelOne_BuiltData.LevelOne_BuiltData
