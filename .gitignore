@@ -1,6 +1,8 @@
 [Ii]ntermediate
 [Ss]aved
 [Bb]uild
+[Bb]inaries
+
 # Visual Studio 2015 user specific files
 .vs/
 
